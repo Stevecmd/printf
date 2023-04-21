@@ -1,7 +1,9 @@
 0x11. C - printf
-Group Project.
+
 Date: Apr 21, 2023
-This is a shared repo for the printf project: ALX.
+
+Group Project: This is a shared repo for the printf project: ALX.
+
 Contributors: Paul Oliech (https://github.com/Paul-Omondi-Oliech)
               Steve Murimi (https://github.com/Stevecmd)
               
@@ -129,7 +131,8 @@ alex@ubuntu:~/c/printf$
     If the task does not specify what to do with an edge case, do the same as printf
 
 Tasks
- 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life
+
+0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life
 Write a function that produces output according to a format.
 
     Prototype: int _printf(const char *format, ...);
@@ -148,7 +151,7 @@ Write a function that produces output according to a format.
 
 1. Education is when you read the fine print. Experience is what you get if you don't 
 
-Handle the following conversion specifiers:
+    Handle the following conversion specifiers:
 
     d
     i
